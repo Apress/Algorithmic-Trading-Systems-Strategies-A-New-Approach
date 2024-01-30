@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c5NjI2N4b3lWq0NJEJyp6X/8EasR8DSqQFXCVp5G8W+gUmgiMKIVyLO1GBI7kDm2bzTmacLTRj8d3AoFf3v6pA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\waksu\\Desktop\\book\\src\\Chapter7\\OptimizationAlgorithms\\OptimizationAlgorithms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\waksu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

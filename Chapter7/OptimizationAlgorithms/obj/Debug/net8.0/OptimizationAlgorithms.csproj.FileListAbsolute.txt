@@ -1,0 +1,13 @@
+G:\waksund\book\src\Chapter7\OptimizationAlgorithms\bin\Debug\net8.0\OptimizationAlgorithms.deps.json
+G:\waksund\book\src\Chapter7\OptimizationAlgorithms\bin\Debug\net8.0\OptimizationAlgorithms.dll
+G:\waksund\book\src\Chapter7\OptimizationAlgorithms\bin\Debug\net8.0\OptimizationAlgorithms.pdb
+G:\waksund\book\src\Chapter7\OptimizationAlgorithms\obj\Debug\net8.0\OptimizationAlgorithms.csproj.AssemblyReference.cache
+G:\waksund\book\src\Chapter7\OptimizationAlgorithms\obj\Debug\net8.0\OptimizationAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+G:\waksund\book\src\Chapter7\OptimizationAlgorithms\obj\Debug\net8.0\OptimizationAlgorithms.AssemblyInfoInputs.cache
+G:\waksund\book\src\Chapter7\OptimizationAlgorithms\obj\Debug\net8.0\OptimizationAlgorithms.AssemblyInfo.cs
+G:\waksund\book\src\Chapter7\OptimizationAlgorithms\obj\Debug\net8.0\OptimizationAlgorithms.csproj.CoreCompileInputs.cache
+G:\waksund\book\src\Chapter7\OptimizationAlgorithms\obj\Debug\net8.0\OptimizationAlgorithms.sourcelink.json
+G:\waksund\book\src\Chapter7\OptimizationAlgorithms\obj\Debug\net8.0\OptimizationAlgorithms.dll
+G:\waksund\book\src\Chapter7\OptimizationAlgorithms\obj\Debug\net8.0\refint\OptimizationAlgorithms.dll
+G:\waksund\book\src\Chapter7\OptimizationAlgorithms\obj\Debug\net8.0\OptimizationAlgorithms.pdb
+G:\waksund\book\src\Chapter7\OptimizationAlgorithms\obj\Debug\net8.0\ref\OptimizationAlgorithms.dll
